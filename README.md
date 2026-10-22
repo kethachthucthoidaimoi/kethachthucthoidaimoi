@@ -1,1 +1,1 @@
-<img src="assets/nomad-journey.gif?v=1a86b3e" alt="Kẻ du mục khám phá tàn tích cổ, xem la bàn để xác định hướng đi" width="100%" />
+<img src="https://raw.githubusercontent.com/kethachthucthoidaimoi/kethachthucthoidaimoi/1a86b3e99a7d2ca332bb7d55479e5e7620bbc0d3/assets/nomad-journey.gif" alt="Kẻ du mục khám phá tàn tích cổ, xem la bàn để xác định hướng đi" width="100%" />
